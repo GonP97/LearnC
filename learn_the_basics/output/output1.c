@@ -20,5 +20,13 @@ int main(void){
 		
 	*/
 	
+	printf("O jota gosta de:........ ");
+	printf("cona!\n");
+	
+	/*
+		Output:
+		O jota gosta de .......	
+		piça!
+	*/
 	
 }
